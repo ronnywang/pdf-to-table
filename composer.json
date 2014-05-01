@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+              "url": "https://github.com/ronnywang/tcpdf.git",
+              "type": "git"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "*",
+        "tecnick.com/tcpdf": ">=6.0.050"
+    }
+}

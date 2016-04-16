@@ -1,6 +1,8 @@
 pdf-to-table
 ============
 
+** 此專案已停止維護，可改用 https://github.com/ronnywang/pdf-table-extractor 這個新開發 PDF 抓表格功能。
+
 將 PDF 內的 Table 想辦法取出來
 這份程式是 2014/2/22 台灣零時政府第柒次自由時代黑客松 為了處理農委會農藥使用手冊所寫的 parser
 目標是希望能將用藥手冊的 PDF 轉換成結構化資料
